@@ -3,11 +3,11 @@
 ### Data Exploartion
 
 #### Visualize the Dependent variable with independent variable
-![Time VS Price](pictures/Figure1.png)
+![Time VS Price](pictures/Figure_1.png)
 
-![adjusted Time VS Price](pictures/Figure2.png)
+![adjusted Time VS Price](pictures/Figure_2.png)
 
-![Test Set](pictures/Figure3.png)
+![Test Set](pictures/Figure_3.png)
 ### Linear Regression Model
 Linear Model:  **linear regression** is a **linear** approach to modeling the relationship between a scalar response (or dependent variable) and one or more explanatory variables (or independent variables). The case of one explanatory variable is called simple **linear regression**.
 
@@ -16,7 +16,7 @@ Linear Model:  **linear regression** is a **linear** approach to modeling the re
 
 
 #### Plot Actual vs Predicted Value of Linear Regression Model
-![Linear Regression Value: Actual Price vs Predicted Value](pictures/Figure4.png)
+![Linear Regression Value: Actual Price vs Predicted Value](pictures/Figure_4.png)
 
 ### RMSE (Root Mean Square Error)
 
